@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1087644602140",
+    "project_id": "worldgates-93f28",
+    "storage_bucket": "worldgates-93f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087644602140:android:90a3aab3d77d2c54a6b4d9",
+        "android_client_info": {
+          "package_name": "com.example.vendomegroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087644602140-4hsvtpfig6s2kdmu1dlj0oog3rr9pqf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBil1tOeHwUBfQp45bAKnnG2C3_RX4TXYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087644602140-4hsvtpfig6s2kdmu1dlj0oog3rr9pqf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087644602140-n3q2okij7q81hcqrn7he0juu2e8r7a9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vendomegroup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087644602140:android:e2297d5075bbc0eca6b4d9",
+        "android_client_info": {
+          "package_name": "com.example.worldsgate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087644602140-4hsvtpfig6s2kdmu1dlj0oog3rr9pqf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBil1tOeHwUBfQp45bAKnnG2C3_RX4TXYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087644602140-4hsvtpfig6s2kdmu1dlj0oog3rr9pqf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087644602140-n3q2okij7q81hcqrn7he0juu2e8r7a9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vendomegroup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087644602140:android:a7b7ba832413ca6ca6b4d9",
+        "android_client_info": {
+          "package_name": "com.vendomesdelivery.vendomesdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087644602140-4hsvtpfig6s2kdmu1dlj0oog3rr9pqf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBil1tOeHwUBfQp45bAKnnG2C3_RX4TXYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087644602140-4hsvtpfig6s2kdmu1dlj0oog3rr9pqf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087644602140-n3q2okij7q81hcqrn7he0juu2e8r7a9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vendomegroup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
